@@ -14,4 +14,3 @@ while running == True:
     print(numA, numB)
     if numA == numB:
         running = False
-    
